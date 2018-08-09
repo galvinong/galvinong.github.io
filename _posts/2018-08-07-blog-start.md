@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Intro"
+title:  "Hello World!"
 date:   2018-08-07 18:32:00 +0800
 categories: misc
 ---
 
 A starting point for what this blog will introduce. This blog was created to explore the ideas/concepts of items related to tech; such as computer parts, networking systems and day to day items.
 
----
 ### Why?
 This blog was made to test out how easy it was to host a blog on github pages using jekyll which utilizes liquid templating engine, with simple directory formatting and markdown for posts. I was able to get this up within minutes.
 
 Powered by
-* [Github Pages](https://pages.github.com/)
+
+* [Github Pages](https://pages.github.com/)  
 * [Jedkyll](https://jekyllrb.com/)
 * [Hyde](https://github.com/poole/hyde#usage)
 
@@ -42,3 +42,7 @@ As a start, I would like to just put down a few youtubers who help people discov
 * [Buildzoid Actually Hardcore Overclocking](https://www.youtube.com/channel/UCrwObTfqv8u1KO7Fgk-FXHQ)
     * In depth analysis into the board's circuit traces/VRM's impelmentation/BIOS options 
     {% include youtubeplayer.html id="oDRHV3qtSWc" %} 
+* [GamerNexus](https://www.youtube.com/user/GamersNexus)
+    * Great technical content as well, much more digestable info if you find Buildzoid content too complicated
+* [LTT](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw)
+    * Basically the entry point for everyone interested in hardware, as their target audience is mainly for the masses. Averaging usually around 1 million views for their vidoes, they go through pretty much everything you need to know in the consumer world. 
